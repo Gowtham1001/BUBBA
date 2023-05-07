@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Default Configuration</key>
+	<string></string>
+	<key>NSAllowsArbitraryLoads</key>
+	<string></string>
+	<key>NSAppTransportSecurity</key>
+	<dict/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Montserrat-Bold.ttf</string>
+		<string>Montserrat-SemiBold.ttf</string>
+		<string>Montserrat-Regular.ttf</string>
+		<string>Montserrat-Medium.ttf</string>
+	</array>
+	<key>UIApplicationSupportsMultipleScenes</key>
+	<string></string>
+	<key>UISceneConfigurations</key>
+	<string></string>
+	<key>kTCCServiceMediaLibrary</key>
+	<string>Permt</string>
+</dict>
+</plist>
